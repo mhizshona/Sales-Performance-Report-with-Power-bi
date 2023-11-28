@@ -15,6 +15,7 @@ _Disclaimer: All datasets and report do not in any way represent any institution
 - DATA CLEANING
 - USE OF DAX
 - VISUALIZATION
+- POWER BI
   
 ### STEPS TAKEN 
 
